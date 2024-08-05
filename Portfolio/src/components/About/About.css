@@ -1,0 +1,11 @@
+/* src/About.css */
+.neon-text {
+    text-shadow: 0 0 5px #fff,
+                 0 0 10px #fff,
+                 0 0 20px #f4f02f,
+                 0 0 30px #aff8c3,
+                 0 0 40px #eaee72,
+                 0 0 50px #eaf759,
+                 0 0 60px #e9ff47;
+  }
+  
